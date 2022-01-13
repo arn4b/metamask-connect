@@ -9,7 +9,9 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
-    "vue": "^3.0.0"
+    "vue": "^3.0.0",
+    "web3": "^1.6.1",
+    "web3modal": "^1.9.5"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.5.0",
