@@ -9,7 +9,9 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
+    "identicon.js": "^2.3.3",
     "vue": "^3.0.0",
+    "vuex": "^4.0.2",
     "web3": "^1.6.1",
     "web3modal": "^1.9.5"
   },
